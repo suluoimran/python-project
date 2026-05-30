@@ -68,8 +68,8 @@ while True:
 
     # Individual Summary Display
     print("\n--- CUSTOMER BILL SUMMARY ---")
-    print(f"Customer Name:           {customer}")
-    print(f"Meter Number:            {meter_number}")
+    print(f"Customer Name:\t\t{record['name']}")
+    print(f"Meter Number:\t\t{record['meter']}")
     print(f"Units Used:              {used_units}")
     print(f"TOTAL BILL:              Tsh {total_bills:,}") 
     print("-----------------------------")
