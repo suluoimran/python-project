@@ -1,5 +1,5 @@
 print("=============================")
-print(" UPGRADED WATER BILLING SYSTEM")
+print(" WATER BILLING SYSTEM")
 print("=============================")
 
 # Function to calculate individual bills
