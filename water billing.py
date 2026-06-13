@@ -1,5 +1,5 @@
 print("=============================")
-print(" WATER BILLING SYSTEM")
+print(" SMART WATER MANAGEMENT SYSTEM")
 print("=============================")
 
 # Function to calculate individual bills
@@ -81,6 +81,6 @@ else:
     print("\nNo records were entered.")
 
 print("\n===============================================")
-print("THANK YOU FOR USING MY WATER BILLING SYSTEM")
+print("THANK YOU FOR USING MY SMART WATER MANAGEMENT SYSTEM")
 print("YOU ARE ALWAYS WELCOME AGAIN")
 print("===============================================")
